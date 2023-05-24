@@ -1,4 +1,4 @@
-<p style="text-align: center;">**Python Developer**</p>
+## Python Developer
 - 👋 Hi, I’m @kavilakshmi
 - 👀 I’m interested in Python coding and learning.
 - 📫 Reach me on Kavilakshmi27@gmail.com
